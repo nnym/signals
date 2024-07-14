@@ -1,0 +1,11 @@
+```rust
+$ signals
+ 1 HUP     9 KILL   17 CHLD   25 XFSZ   
+ 2 INT    10 USR1   18 CONT   26 VTALRM 
+ 3 QUIT   11 SEGV   19 STOP   27 PROF   
+ 4 ILL    12 USR2   20 TSTP   28 WINCH  
+ 5 TRAP   13 PIPE   21 TTIN   29 POLL   
+ 6 ABRT   14 ALRM   22 TTOU   30 PWR    
+ 7 BUS    15 TERM   23 URG    31 SYS    
+ 8 FPE    16 STKFLT 24 XCPU   
+```
